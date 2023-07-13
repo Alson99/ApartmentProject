@@ -25,7 +25,7 @@ public class ApartmentService {
         return apartmentRepository.findById(id);
     }
 
-    public String findApartmentByName(String name) {
+    public Apartment findApartmentByName(String name) {
         return apartmentRepository.findByName(name);
     }
 
