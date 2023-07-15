@@ -16,7 +16,7 @@ public class Apartment {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
-    private String adress;
+    private String address;
     private String city;
     private String postalCode;
     private String country;
