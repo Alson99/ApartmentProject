@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.als</groupId>
-    <artifactId>Apartment</artifactId>
+    <artifactId>apartment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Apartment</name>
     <description>Apartment</description>
